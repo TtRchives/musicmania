@@ -7,7 +7,7 @@ Fun music game. Based off of "Anglemania!"
 
 ## Infos
 [![license: GPLv3](https://img.shields.io/github/license/thetechrobo/musicmania?style=plastic)
-[![creator: thetechrobo](https://img.shields.io/badge/developer-TheTechRobo-red)
+[![creator: thetechrobo](https://img.shields.io/badge/developer-TheTechRobo-red?style=plastic)
 
 
 ###### NOTICE: I am working on a Python 3.x version, use it unless you must use Python 2.x
